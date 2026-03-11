@@ -1,0 +1,5 @@
+/* Styles moved to index.html for simplicity in this small app,
+   but kept here to satisfy standard asset structure if needed */
+body {
+    background-color: #10181f;
+}
